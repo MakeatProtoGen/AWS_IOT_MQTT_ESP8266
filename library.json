@@ -1,11 +1,11 @@
 {
-  "name": "ProtoKit_AWS_IoT_Core_MQTT_ESP8266",
+  "name": "AWS_IoT_Core_MQTT_ESP8266",
   "keywords": "AWS, IoT, SDK, ESP8266, Websockets, sigv4, Arduino",
   "description": "AWS IoT Device SDK for ESP8266/Arduino using Websockets and sigv4 authentication.",
   "repository":
   {
     "type": "git",
-    "url": "https://github.com/MakeatProtoGen/ProtoKit_AWS_IoT_Core_MQTT_ESP8266"
+    "url": "https://github.com/MakeatProtoGen/AWS_IoT_Core_MQTT_ESP8266"
   },
   "version": "0.1.1",
   "frameworks": "arduino",
